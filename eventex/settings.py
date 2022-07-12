@@ -30,6 +30,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 
 ALLOWED_HOSTS = ['*']
 
+DEFAULT_FROM_EMAIL = 'matheusps3110@outlook.com'
 
 # Application definition
 
